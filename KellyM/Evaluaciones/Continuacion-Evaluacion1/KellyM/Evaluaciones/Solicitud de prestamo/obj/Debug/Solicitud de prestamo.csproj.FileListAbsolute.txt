@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\bin\Debug\Solicitud de prestamo.exe.config
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\bin\Debug\Solicitud de prestamo.exe
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\bin\Debug\Solicitud de prestamo.pdb
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud de prestamo.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud de prestamo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud_de_prestamo.Form1.resources
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud_de_prestamo.Form2.resources
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud_de_prestamo.MDI.resources
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud_de_prestamo.Properties.Resources.resources
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud de prestamo.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud de prestamo.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud de prestamo.exe
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud de prestamo.pdb
+C:\Users\User\Source\Repos\Evaluaciones\Solicitud de prestamo\obj\Debug\Solicitud_de_prestamo.Form3.resources
