@@ -33,6 +33,7 @@
             this.solicitudDePrestamoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.depreciacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.efectivoOTarjetaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ventasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -51,7 +52,8 @@
             this.pagosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.solicitudDePrestamoToolStripMenuItem,
             this.depreciacionToolStripMenuItem,
-            this.efectivoOTarjetaToolStripMenuItem});
+            this.efectivoOTarjetaToolStripMenuItem,
+            this.ventasToolStripMenuItem});
             this.pagosToolStripMenuItem.Name = "pagosToolStripMenuItem";
             this.pagosToolStripMenuItem.Size = new System.Drawing.Size(51, 20);
             this.pagosToolStripMenuItem.Text = "Pagos";
@@ -77,6 +79,13 @@
             this.efectivoOTarjetaToolStripMenuItem.Text = "Efectivo o tarjeta";
             this.efectivoOTarjetaToolStripMenuItem.Click += new System.EventHandler(this.efectivoOTarjetaToolStripMenuItem_Click);
             // 
+            // ventasToolStripMenuItem
+            // 
+            this.ventasToolStripMenuItem.Name = "ventasToolStripMenuItem";
+            this.ventasToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
+            this.ventasToolStripMenuItem.Text = "Ventas";
+            this.ventasToolStripMenuItem.Click += new System.EventHandler(this.ventasToolStripMenuItem_Click);
+            // 
             // MDI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -101,5 +110,6 @@
         private ToolStripMenuItem solicitudDePrestamoToolStripMenuItem;
         private ToolStripMenuItem depreciacionToolStripMenuItem;
         private ToolStripMenuItem efectivoOTarjetaToolStripMenuItem;
+        private ToolStripMenuItem ventasToolStripMenuItem;
     }
 }

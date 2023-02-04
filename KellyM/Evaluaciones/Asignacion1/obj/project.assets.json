@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JADPA-26\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KellyM\\Evaluaciones\\Asignacion1\\Asignacion1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\Continuacion-Evaluacion1-main\\Continuacion-Evaluacion1-main\\KellyM\\Evaluaciones\\Continuacion-Evaluacion1\\KellyM\\Evaluaciones\\Asignacion1\\Asignacion1.csproj",
       "projectName": "Asignacion1",
-      "projectPath": "E:\\KellyM\\Evaluaciones\\Asignacion1\\Asignacion1.csproj",
-      "packagesPath": "C:\\Users\\JADPA-26\\.nuget\\packages\\",
-      "outputPath": "E:\\KellyM\\Evaluaciones\\Asignacion1\\obj\\",
+      "projectPath": "C:\\Users\\User\\Downloads\\Continuacion-Evaluacion1-main\\Continuacion-Evaluacion1-main\\KellyM\\Evaluaciones\\Continuacion-Evaluacion1\\KellyM\\Evaluaciones\\Asignacion1\\Asignacion1.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\Continuacion-Evaluacion1-main\\Continuacion-Evaluacion1-main\\KellyM\\Evaluaciones\\Continuacion-Evaluacion1\\KellyM\\Evaluaciones\\Asignacion1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JADPA-26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

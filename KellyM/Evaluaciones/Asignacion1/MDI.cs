@@ -15,6 +15,7 @@ namespace Asignacion1
         Form1 x = new Form1();
         Form2 y = new Form2();
         Form3 z = new Form3();
+        Ventas v = new Ventas();
         public MDI()
         {
             InitializeComponent();
@@ -36,6 +37,12 @@ namespace Asignacion1
         {
             z.MdiParent = this;
             z.Show();
+        }
+
+        private void ventasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            v.MdiParent = this;
+            v.Show();
         }
     }
 }
